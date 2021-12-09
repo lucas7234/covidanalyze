@@ -1,0 +1,20 @@
+{
+  "description" : "This is a JSON file including informations about projects. Do not remove this message.",
+  "version" : "1.1",
+  "maskallavailable" : true,
+  "patientallavailable" : false, 
+  "vaccineallavailabel" : false, 
+  "filelist" : {
+    "mask" : [
+      "analyzer/mask/mask.py",
+      "analyzer/mask/mask_graph.py"
+      "analyzer/mask/mask_text.py"
+    ],
+    "patient" : [
+    
+    ], 
+    "vaccine" : [
+    
+    ]
+  }
+}
